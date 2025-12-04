@@ -237,8 +237,22 @@ footer ul {
       font-size: 15px;
     }
 
-
+.house {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 15px;
+}
+    
+.house img {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+    
     section {
         grid-column: span 2;
     }
 }
+
