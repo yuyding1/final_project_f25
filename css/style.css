@@ -142,14 +142,14 @@ nav a.active {
 
 .house {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     justify-content: center;
     justify-items: center;
     margin-top: 15px;
 }
-
+    
 .house img {
-  width: 50%;
+  width: 100%;
   display: block;
   margin: 0 auto;
 }
@@ -239,20 +239,20 @@ footer ul {
 
 .house {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     justify-content: center;
     justify-items: center;
     margin-top: 15px;
 }
-    
+
 .house img {
-  width: 100%;
+  width: 50%;
   display: block;
   margin: 0 auto;
 }
-    
     section {
         grid-column: span 2;
     }
 }
+
 
