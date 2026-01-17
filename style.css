@@ -1,5 +1,5 @@
 body {
-    font-family: 'Comfortaa', sans-serif;
+    font-family: Comfortaa, sans-serif;
     line-height: 1.6;
     margin: 0;
     background-color: rgb(152, 190, 96);
@@ -275,6 +275,7 @@ nav .links li a.button:hover, nav .links li a.button:focus {
 }
 
 }
+
 
 
 
