@@ -1,5 +1,5 @@
 body {
-    font-family: comfortaa, sans-serif;
+    font-family: 'Comfortaa', sans-serif;
     line-height: 1.6;
     margin: 0;
     background-color: rgb(152, 190, 96);
@@ -254,6 +254,7 @@ footer ul {
         grid-column: span 2;
     }
 }
+
 
 
 
